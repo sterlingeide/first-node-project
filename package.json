@@ -1,0 +1,25 @@
+{
+  "name": "first-node-project",
+  "version": "1.0.0",
+  "description": "My first Node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterlingeide/first-node-project.git"
+  },
+  "keywords": [],
+  "author": "Sterling Eide",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sterlingeide/first-node-project/issues"
+  },
+  "homepage": "https://github.com/sterlingeide/first-node-project#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "faker": "^5.5.3"
+  }
+}
